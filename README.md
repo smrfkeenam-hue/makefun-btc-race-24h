@@ -1,6 +1,10 @@
 # Dip-buy cbBTC race bot
 
-Entry for make.fun `btc-race-24h-20261117-0603` — race a BTC trading bot
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/smrfkeenam-hue/makefun-btc-race-24h/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/smrfkeenam-hue/makefun-btc-race-24h/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
+Entry for [make.fun `btc-race-24h-20261117-0603`](https://make.fun/bounty/btc-race-24h-20261117-0603) — race a BTC trading bot
 live for 24 hours. Simulation only: paper money against real on-chain
 cbBTC/USDC prices from the Orca Whirlpool, no real money traded.
 
